@@ -168,9 +168,9 @@ npm update
 
 Si encuentras algún problema o tienes preguntas:
 
-    📧 Maximiliano Lopez: [tu-email@ejemplo.com]
+    📧 Maximiliano Lopez: [m.lopez@itecriocuarto.org.ar]
 
-    📧 Agustin Lejtneker: [tu-email@ejemplo.com]
+    📧 Agustin Lejtneker: [a.lejtneker@itecriocuarto.org.ar]
 
 📄 Licencia
 
@@ -187,6 +187,6 @@ text
 3. **📋 Completar la sección de endpoints** de la API
 4. **🛠️ Verificar** que los comandos de instalación del backend sean correctos
 
-¿Quieres que ajuste algo específico o agregues alguna sección adicional?
+
 
 
